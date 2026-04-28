@@ -1,0 +1,9 @@
+# Data and Logs
+data/
+logs/
+
+# Python cache and environment
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
